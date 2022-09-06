@@ -572,12 +572,12 @@ bash <(curl -s -L https://raw.githubusercontent.com/kt007007/KTMinerProxy/main/l
 # Windows
 下载完后直接启动即可，程序自带进程守护
 
-<a href="https://github.com/kt007007/KTMinerProxy/tree/main/Windows-64">下载地址</a>
+<a href="https://github.com/zrx830/KTMinerProxy/tree/main/Windows-64">下载地址</a>
 
 <span id="_kenc"></span>
 # KENC
 <p>
-请前往<a href="https://github.com/kt007007/KTMinerProxy/tree/main/KENC">https://github.com/kt007007/KTMinerProxy/tree/main/KENC</a>自行下载
+请前往<a href="https://github.com/zrx830/KTMinerProxy/tree/main/KENC">https://github.com/kt007007/KTMinerProxy/tree/main/KENC</a>自行下载
 </p>
 <p><a href="#kenc">KENC帮助文档</a></p>
 
